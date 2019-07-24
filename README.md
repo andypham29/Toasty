@@ -1,7 +1,7 @@
 # Toasty
 If you are not a fan of bland toasts and are looking for toasty toasts, look no further!
 
-You can now make randomize colored toast!
+You can now make randomize colored toasts!
 
 # Installation
 ### With gradle:
